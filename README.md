@@ -11,6 +11,7 @@
 ## Usage
 
   Simply compile the code and watch the shapes bounce inside the terminal.
+  
 https://user-images.githubusercontent.com/104300752/184920895-0074f7f1-5071-43d1-9dce-09e893ff7bd7.mp4
 
 ## Licence
