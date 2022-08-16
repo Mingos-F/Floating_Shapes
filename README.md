@@ -13,3 +13,5 @@
   Simply compile the code and watch the shapes bounce inside the terminal.
   
 ## Licence
+
+  GNU General Public License v3.0
