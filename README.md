@@ -2,7 +2,8 @@
 
 ## Description
 
-  This creation of this project was motivated by my will to learn more about c++, expecificly graphics oriented c++ programing.
+  This creation of this project was motivated by my will to learn more about c++, expecificly graphics oriented c++ programing. <br />
+  The program consists on shapes bouncing arounfd in the terminal. 
   
 ## Installation
 
